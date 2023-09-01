@@ -2,122 +2,16 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+# Hello and welcome on my page
 
-[Link to another page](./another-page.html).
+## This is a place to enjoy
 
-There should be whitespace between paragraphs.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Faucibus et molestie ac feugiat sed lectus vestibulum mattis ullamcorper. Dignissim diam quis enim lobortis scelerisque. Vulputate dignissim suspendisse in est ante. Tempus egestas sed sed risus. Dictum fusce ut placerat orci nulla pellentesque. Scelerisque mauris pellentesque pulvinar pellentesque habitant morbi tristique senectus. Amet venenatis urna cursus eget nunc. Eu volutpat odio facilisis mauris sit amet massa vitae. Cras ornare arcu dui vivamus arcu felis. In nibh mauris cursus mattis molestie a iaculis at erat. Aenean pharetra magna ac placerat vestibulum lectus. Tortor condimentum lacinia quis vel eros donec ac. Ullamcorper dignissim cras tincidunt lobortis feugiat vivamus. Condimentum mattis pellentesque id nibh tortor id aliquet lectus proin. Facilisi cras fermentum odio eu feugiat. Donec pretium vulputate sapien nec. Penatibus et magnis dis parturient montes nascetur ridiculus. A pellentesque sit amet porttitor eget dolor.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Volutpat commodo sed egestas egestas fringilla phasellus. Adipiscing commodo elit at imperdiet dui accumsan sit amet nulla. Gravida arcu ac tortor dignissim convallis. Massa enim nec dui nunc mattis enim ut. Quam lacus suspendisse faucibus interdum posuere lorem. Placerat orci nulla pellentesque dignissim. Donec et odio pellentesque diam. Id nibh tortor id aliquet lectus proin. Sed risus pretium quam vulputate dignissim suspendisse. Lectus vestibulum mattis ullamcorper velit sed. Netus et malesuada fames ac turpis egestas sed. Vestibulum sed arcu non odio euismod. Sed sed risus pretium quam. Arcu cursus vitae congue mauris rhoncus aenean vel. Tristique senectus et netus et malesuada fames ac turpis egestas. Sem viverra aliquet eget sit amet.
 
-# Header 1
+Id nibh tortor id aliquet. Arcu dui vivamus arcu felis bibendum ut tristique. Vestibulum mattis ullamcorper velit sed ullamcorper. Praesent semper feugiat nibh sed. Sollicitudin aliquam ultrices sagittis orci a scelerisque. Quis risus sed vulputate odio. Amet mauris commodo quis imperdiet massa tincidunt nunc pulvinar sapien. Tellus rutrum tellus pellentesque eu tincidunt. Suspendisse interdum consectetur libero id faucibus nisl tincidunt eget. Sed nisi lacus sed viverra tellus in hac habitasse. Odio euismod lacinia at quis risus sed vulputate odio ut. Arcu dictum varius duis at consectetur lorem donec.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Congue eu consequat ac felis donec et. Neque volutpat ac tincidunt vitae semper quis lectus. Aliquam sem et tortor consequat id porta. Tincidunt id aliquet risus feugiat in ante metus dictum at. Nunc pulvinar sapien et ligula. Faucibus vitae aliquet nec ullamcorper sit amet risus nullam. Senectus et netus et malesuada fames ac turpis egestas. Quam vulputate dignissim suspendisse in est ante in. Venenatis lectus magna fringilla urna porttitor. Scelerisque eleifend donec pretium vulputate. Egestas purus viverra accumsan in nisl nisi scelerisque eu ultrices. Aliquet bibendum enim facilisis gravida neque. Non sodales neque sodales ut etiam sit. Sagittis vitae et leo duis ut. Ipsum dolor sit amet consectetur adipiscing. Netus et malesuada fames ac turpis egestas maecenas pharetra convallis.
 
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+Lacus laoreet non curabitur gravida arcu ac tortor dignissim. A lacus vestibulum sed arcu non odio. In pellentesque massa placerat duis ultricies lacus sed turpis tincidunt. Velit scelerisque in dictum non consectetur a erat nam. Lacus sed turpis tincidunt id aliquet risus feugiat in. Quam vulputate dignissim suspendisse in. Ipsum nunc aliquet bibendum enim facilisis. Ut tristique et egestas quis ipsum suspendisse ultrices gravida dictum. Augue eget arcu dictum varius duis at consectetur. Integer enim neque volutpat ac. Velit dignissim sodales ut eu sem integer vitae justo eget. Consequat mauris nunc congue nisi vitae suscipit tellus mauris.
